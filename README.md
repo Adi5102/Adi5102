@@ -8,5 +8,6 @@
 
 <h3> Follow my Learning Journey </h3>
 <ul> 
-  <li> </li>
+  <li> Vibe Coding, <a href="https://roadmap.sh/vibe-coding"> Roadmap.sh </a> </li>
+  <li> HTML, <a href="https://www.freecodecamp.org/learn/responsive-web-design-v9/review-html/review-html"> FreeCodeCamp </a> </li>
 </ul>
